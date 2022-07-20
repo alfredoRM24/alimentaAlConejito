@@ -96,7 +96,7 @@ else{
  
    //btn3
    button3 = createImg('cut_btn.png');
-   button3.position(360,200);
+   button3.position(canW/2,canH/2);
    button3.size(60,60);
    button3.mouseClicked(drop3);
 
